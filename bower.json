@@ -1,0 +1,25 @@
+{
+  "name": "Material-project-v2",
+  "version": "0.0.1",
+  "authors": [
+    "deltaoscargolf"
+  ],
+  "description": "Polymer example",
+  "main": "index.html",
+  "keywords": [
+    "Polymer",
+    "example"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
